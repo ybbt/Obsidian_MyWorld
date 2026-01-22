@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мій Арканопанк/Нотатки/Магія/Велика Катастрофа.md",
+                "file": "Мій Арканопанк/Нотатки/Магія/Магічний Бар'єр.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Велика Катастрофа"
+              "title": "Магічний Бар'єр"
             }
           }
         ]
@@ -176,27 +176,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мій Арканопанк/Технології і закляття/Закляття/Закляття.md",
+                "file": "Мій Арканопанк/Нотатки/Магія/Магічний Бар'єр.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст Закляття"
-            }
-          },
-          {
-            "id": "cb46ffe7943e842a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Вміст Магічний Бар'єр"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13fcddd08f341f20",
+  "active": "5657e3bba6214fd3",
   "lastOpenFiles": [
-    "Мій Арканопанк/Нотатки/Магія/Магічний Бар'єр.md",
     "Мій Арканопанк/Нотатки/Магія/Велика Катастрофа.md",
+    "Мій Арканопанк/Нотатки/Магія/Магічний Бар'єр.md",
     "Мій Арканопанк/Нотатки/Історія/Реальна історія (ЛОР)/Чародійська Ера/Чародійська Ера.md",
     "Мій Арканопанк/Нотатки/Невпорядковані початкові нотатки.md",
     "Мій Арканопанк/Нотатки/Технології/Терміни/Маножила.md",
