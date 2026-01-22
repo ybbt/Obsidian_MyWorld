@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "984b12922c8bf1db",
+    "type": "split",
+    "children": [
+      {
+        "id": "396a16a8b207576e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13fcddd08f341f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мій Арканопанк/Нотатки/Магія/Велика Катастрофа.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Велика Катастрофа"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec157cc095ca1a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d65668f65e4dcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5657e3bba6214fd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "752cd4e3257ef39e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ВузолСили",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "a01c6a7556a23974",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "f3a85f81d1657c8e",
+            "type": "leaf",
+            "state": {
+              "type": "virt-folder-view",
+              "state": {},
+              "icon": "folder-tree",
+              "title": "VirtFolder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abcb0694c65d8f09",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9fabef04ab54350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45970bae60457bbf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Мій Арканопанк/Нотатки/Технології/Промислова генерація магії.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання для Промислова генерація магії"
+            }
+          },
+          {
+            "id": "292a0aaab22fae99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Мій Арканопанк/Технології і закляття/Закляття/Закляття.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання з Закляття"
+            }
+          },
+          {
+            "id": "616af317063aaef2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "99c572d3c9eeb99f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всі властивості"
+            }
+          },
+          {
+            "id": "5ec3bd87a23c9082",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Мій Арканопанк/Технології і закляття/Закляття/Закляття.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст Закляття"
+            }
+          },
+          {
+            "id": "cb46ffe7943e842a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "13fcddd08f341f20",
+  "lastOpenFiles": [
+    "Мій Арканопанк/Нотатки/Історія/Реальна історія (ЛОР)/Чародійська Ера/Чародійська Ера.md",
+    "Мій Арканопанк/Нотатки/Невпорядковані початкові нотатки.md",
+    "Мій Арканопанк/Нотатки/Технології/Терміни/Маножила.md",
+    "Мій Арканопанк/Нотатки/Історія/Реальна історія (ЛОР)/Маноіндустріальний час/Мано-Індустріальний Час.md",
+    "Мій Арканопанк/Нотатки/Технології/Терміни",
+    "Мій Арканопанк/Нотатки/Технології/Без назви.md",
+    "Мій Арканопанк/Нотатки/Магія/Терміни/Етерний меридіан.md",
+    "Мій Арканопанк/Нотатки/Магія/Терміни/Зона еманації.md",
+    "Мій Арканопанк/Нотатки/Технології/Промислова генерація магії.md",
+    "Мій Арканопанк/Нотатки/Магія/Зони еманації.md",
+    "Мій Арканопанк/Нотатки/Магія/Природна генерація магії.md",
+    "Мій Арканопанк/Нотатки/Магія/Етерні Меридіани.md",
+    "Мій Арканопанк/Нотатки/Магія/Чарівний Гай.md",
+    "Мій Арканопанк/Нотатки/Магія/Терміни",
+    "Мій Арканопанк/Нотатки/Магія/Ельфійські Менгіри.md",
+    "Мій Арканопанк/Нотатки/Магія/Суть класичної магії.md",
+    "Мій Арканопанк/Нотатки/Магія/Суть Ритуальної Магії.md",
+    "Мій Арканопанк/Нотатки/Магія/Суть закляття.md",
+    "Мій Арканопанк/Нотатки/Магія/Ритуальна генерація мани.md",
+    "Мій Арканопанк/Нотатки/Історія/Реальна історія (ЛОР)/Темні століття/Темні століття.md",
+    "Мій Арканопанк/Нотатки/Магія/Велика Катастрофа.md",
+    "Мій Арканопанк/-Стартова сторінка.md",
+    "Мій Арканопанк/Нотатки",
+    "Етерними Мерідіанами.md",
+    "Мій Арканопанк/Нотатки/Магія/Брудний Шум.md",
+    "Без назви.md",
+    "Мій Арканопанк/Нотатки/Технології/Приклади мано-технологій/Магічні замки.md",
+    "Мій Арканопанк/Нотатки/Технології/Приклади мано-технологій/Стрілецька зброя.md",
+    "Мій Арканопанк/Технології/-Технології.md",
+    "Мій Арканопанк/Нотатки/Магія",
+    "Мій Арканопанк/Нотатки/Історія/Реальна історія (ЛОР)/Маноіндустріальний час",
+    "Мій Арканопанк/Нотатки/Історія/Реальна історія (ЛОР)/Темні століття",
+    "Мій Арканопанк/Нотатки/Історія/Реальна історія (ЛОР)/Чародійська Ера",
+    "Мій Арканопанк/Нотатки/Історія/Міфи, домисли, фальсіфікації",
+    "Мій Арканопанк/Нотатки/Історія/Реальна історія (ЛОР)",
+    "Мій Арканопанк/Нотатки/Історія",
+    "Без назви.canvas"
+  ]
+}
